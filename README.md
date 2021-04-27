@@ -1,5 +1,7 @@
 # Peek CLI 👀
 
+Command line interface for [Peek](https://github.com/abelptvts/peek).
+
 ## Installation
 
 ```
